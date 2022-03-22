@@ -17,4 +17,4 @@ If discriminant is equal to 0, the roots are real and equal.
 If discriminant is less than 0, the roots are complex and different.
 
 
-![Screenshot](quadratic-equation-roots.jpg)"# Roots-of-a-Quadratic-Equation" 
+![Screenshot](quadratic-equation-roots.jpg)
